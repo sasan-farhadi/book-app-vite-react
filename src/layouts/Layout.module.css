@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #303030;
+    padding: 10px 20px;
+    margin-bottom: 80px;
+    border-radius: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #6552f4;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.footer {
+    text-align: center;
+    background-color: #303030;
+    padding: 20px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
