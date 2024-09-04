@@ -1,0 +1,13 @@
+.card {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    margin: 10px 0;
+    background-color: #7c6ee9;
+    border-radius: 5px;
+}
+
+.card img {
+    width: 30px;
+    margin-right: 15px;
+}
